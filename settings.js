@@ -11,24 +11,24 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumber = '' //Ejemplo: 51928687634
+global.botNumber = '51928687634' //Ejemplo: 51928687634
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
   ['51979194696', '❀ Propietario ❀', true],
-  ['59169214837', '❀ Propietario ❀', true],
-  ['59169214837'],
-  ['595972157130'],
-  ['5212441357601'],
-  ['50557865603'],
-  ['5216671548329'],
-  ['584148256527'],
-  ['5212431268546'],
-  ['584128382768'],
-  ['5216646666666'],
-  ['5219666666666'],
-  ['593968263524']
+  ['', '❀ Propietario ❀', true],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  ['']
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -51,12 +51,12 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '❀ YotsubaBot-MD ❀'
+global.packname = '❀ YagoriBot-MD ❀'
 global.botname = '❀ YagoriBot ❀'
-global.wm = '❀YotsubaBot-Sticker❀'
+global.wm = '❀YagoriBot-Sticker❀'
 global.author = '𝙲𝚛𝚎𝚊𝚝𝚎 @yagorinakoto'
 global.dev = '© PoWeReD @yagorinakoto'
-global.textbot = '𝚢𝙾𝚝𝚂𝚞𝙱𝚊𝙱𝚘𝚃-𝙼𝙳• Powered @yagorinakoto'
+global.textbot = 'yagori𝙱𝚘𝚃-𝙼𝙳• Powered @yagorinakoto'
 global.etiqueta = 'ღ NakotoKami ღ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
